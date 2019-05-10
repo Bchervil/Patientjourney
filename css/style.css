@@ -13469,7 +13469,7 @@ input:focus {
 .sidebar-grdient-dark, .sidebar {
   background: #6a008a;
 
-  background: linear-gradient(to bottom right,#4ACCD1, #0887AA);
+  background: linear-gradient(to bottom right,white, grey);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6a008a', endColorstr='#fa0053', GradientType=0 );
   color: #ffffff; }
 
